@@ -1,6 +1,8 @@
 # dev_docs
 
-This project uses Quilljs for creating a text-editor and has a authentication factor using firebase and all the data are stored in the mongoDB and the frontend is created using React.
+This project uses Quilljs for creating a text-editor and has a authentication factor using firebase and all the data are stored in the mongoDB and the frontend is created using React and a multi-user connection is established using socket.io. 
+
+Share the URL with others to work on the same document
 
 To run, download the repo
 <br>
