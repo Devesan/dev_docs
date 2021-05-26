@@ -4,6 +4,7 @@ This project uses Quilljs for creating a text-editor and has a authentication fa
 
 To run, download the repo and
 cd docs_client npm run start
+<br>
 cd docs_server node server.js
 <p>
 <img src="https://github.com/Devesan/dev_docs/blob/master/Results/login.png"  />
